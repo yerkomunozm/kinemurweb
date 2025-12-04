@@ -1,17 +1,11 @@
 /* Paleta de colores: Verde Sage + Beige Cálido */
 :root {
-  --primary: #7C9885;
-  /* Verde sage - naturaleza/sanación */
-  --secondary: #E9DCC9;
-  /* Beige cálido - calidez */
-  --accent: #D4A574;
-  /* Dorado suave - premium */
-  --background: #FAFAF8;
-  /* Off-white cálido */
-  --text-dark: #3A4F41;
-  /* Verde oscuro */
-  --text-light: #8B9A8E;
-  /* Gris verdoso */
+--primary: #5B4B8A;        /* Púrpura profundo - sabiduría */
+--secondary: #B8A9D6;      /* Lavanda - calma */
+--accent: #E8B4BC;         /* Rosa dusty - cuidado */
+--background: #F9F7FC;     /* Lavanda muy claro */
+--text-dark: #3D3552;      /* Púrpura oscuro */
+--text-light: #8B7FA8;     /* Gris púrpura */
 }
 
 body {
